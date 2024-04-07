@@ -2,7 +2,7 @@ package FirstPractice;
 
 public class Text {
     public static void main(String[] args) {
-            System.out.println("Я думаю, быть программистом круто");
+            System.out.println("I think, being a developer is a cool thing");
         }
     }
 
